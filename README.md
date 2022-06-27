@@ -2,7 +2,7 @@
 
 ### Software Engineer @NAVER, Korea – Mar.2018-Present
 
-**Building data pipelines for related queries service of Naver search**
+**Built data pipelines for related queries service of Naver search**
 
 - Apache Hadoop (HDFS, MapReduce)
 - Apache Spark
