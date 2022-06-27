@@ -34,7 +34,7 @@ Seoul National University – Bachelor of Business Administration, Aug.2018
 
 ## 📖 **Certifications**
 
-Machine Learning for AI – KAIST AI Institute, Aug.2021-Dec.2021
+Machine Learning for AI – KAIST AI Institute, Sep.2021-Dec.2021
 
 <!--
 **michaelwondev/michaelwondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
